@@ -9,3 +9,8 @@ Normal class: 8 (For example)
 Steps: train autoencoder first, and then train Deep SVDD one class or soft boundary
 
 May suffer from Hypersphere Collapse
+
+Github References:
+
+1. https://github.com/lukasruff/Deep-SVDD-PyTorch
+2. https://github.com/nuclearboy95/Anomaly-Detection-Deep-SVDD-Tensorflow
