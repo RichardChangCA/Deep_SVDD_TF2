@@ -5,3 +5,7 @@ TensorFlow 2.0 version
 Dataset: MNIST
 
 Normal class: 8 (For example)
+
+Steps: train autoencoder first, and then train Deep SVDD one class or soft boundary
+
+May suffer from Hypersphere Collapse
