@@ -10,6 +10,8 @@ Steps: train autoencoder first, and then train Deep SVDD one class or soft bound
 
 May suffer from Hypersphere Collapse
 
+If we set batchnorm trainable == True, the performance will be a little bit better
+
 Github References:
 
 1. https://github.com/lukasruff/Deep-SVDD-PyTorch
