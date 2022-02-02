@@ -8,7 +8,7 @@ Normal class: 8 (For example)
 
 Steps: train autoencoder first, and then train Deep SVDD one class or soft boundary
 
-May suffer from Hypersphere Collapse
+May suffer from Hypersphere Collapse --> need to optimize and fine-tune the model
 
 If we set batchnorm trainable == True, the performance will be a little bit better
 
